@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3713-longest-balanced-substring-i](https://github.com/Piyush10564/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Piyush10564/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3713-longest-balanced-substring-i](https://github.com/Piyush10564/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3713-longest-balanced-substring-i](https://github.com/Piyush10564/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Piyush10564/leetcode-solutions/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Piyush10564/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
