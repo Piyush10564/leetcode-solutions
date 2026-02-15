@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
 | [3713-longest-balanced-substring-i](https://github.com/Piyush10564/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Piyush10564/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Piyush10564/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Enumeration
 |  |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/Piyush10564/leetcode-solutions/tree/master/0799-champagne-tower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
