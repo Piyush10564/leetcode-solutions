@@ -69,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Piyush10564/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Piyush10564/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Piyush10564/leetcode-solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
