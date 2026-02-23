@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Piyush10564/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/Piyush10564/leetcode-solutions/tree/master/0696-count-binary-substrings) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Piyush10564/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Piyush10564/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
