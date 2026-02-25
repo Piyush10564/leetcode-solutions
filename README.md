@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Piyush10564/leetcode-solutions/tree/master/0704-binary-search) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Piyush10564/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyush10564/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Piyush10564/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Piyush10564/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0761-special-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/0761-special-binary-string) |
 ## Rolling Hash
 |  |
