@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Piyush10564/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Piyush10564/leetcode-solutions/tree/master/0704-binary-search) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Piyush10564/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Piyush10564/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
