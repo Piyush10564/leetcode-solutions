@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Piyush10564/leetcode-solutions/tree/master/0704-binary-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Piyush10564/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1920-build-array-from-permutation](https://github.com/Piyush10564/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Piyush10564/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Piyush10564/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Piyush10564/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1920-build-array-from-permutation](https://github.com/Piyush10564/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Backtracking
 |  |
 | ------- |
