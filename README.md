@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Piyush10564/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Piyush10564/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Piyush10564/leetcode-solutions/tree/master/0704-binary-search) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Piyush10564/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Interactive
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Piyush10564/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -189,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Piyush10564/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Piyush10564/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Piyush10564/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Piyush10564/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Piyush10564/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Piyush10564/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
