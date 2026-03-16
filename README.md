@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Piyush10564/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Piyush10564/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Piyush10564/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/Piyush10564/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/Piyush10564/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Piyush10564/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Piyush10564/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
