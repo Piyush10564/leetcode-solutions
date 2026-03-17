@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Piyush10564/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Piyush10564/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/Piyush10564/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0761-special-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/0761-special-binary-string) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Piyush10564/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Rolling Hash
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Piyush10564/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Piyush10564/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Piyush10564/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Piyush10564/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Piyush10564/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Recursion
 |  |
