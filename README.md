@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Piyush10564/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Piyush10564/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Piyush10564/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Piyush10564/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Piyush10564/leetcode-solutions/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyush10564/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
