@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Piyush10564/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Piyush10564/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Piyush10564/leetcode-solutions/tree/master/0704-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/Piyush10564/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0896-monotonic-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyush10564/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Piyush10564/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0874-walking-robot-simulation](https://github.com/Piyush10564/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Piyush10564/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Piyush10564/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Piyush10564/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Piyush10564/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Piyush10564/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Piyush10564/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
