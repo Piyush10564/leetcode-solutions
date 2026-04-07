@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Piyush10564/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/Piyush10564/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/Piyush10564/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Piyush10564/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Piyush10564/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Piyush10564/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Piyush10564/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Piyush10564/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
