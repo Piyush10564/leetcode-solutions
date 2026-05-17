@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Piyush10564/leetcode-solutions/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/Piyush10564/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0896-monotonic-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [1306-jump-game-iii](https://github.com/Piyush10564/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyush10564/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Piyush10564/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush10564/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Piyush10564/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush10564/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Piyush10564/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Piyush10564/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Piyush10564/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Piyush10564/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [1306-jump-game-iii](https://github.com/Piyush10564/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush10564/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
