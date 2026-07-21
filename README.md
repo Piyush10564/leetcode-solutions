@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Piyush10564/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush10564/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Piyush10564/leetcode-solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Piyush10564/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Piyush10564/leetcode-solutions/tree/master/0322-coin-change) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyush10564/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Piyush10564/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Piyush10564/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Piyush10564/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Piyush10564/leetcode-solutions/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/Piyush10564/leetcode-solutions/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Piyush10564/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Piyush10564/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Piyush10564/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush10564/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Piyush10564/leetcode-solutions/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Piyush10564/leetcode-solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Piyush10564/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/Piyush10564/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Piyush10564/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Piyush10564/leetcode-solutions/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -465,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush10564/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Piyush10564/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
