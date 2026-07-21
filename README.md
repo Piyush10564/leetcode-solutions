@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush10564/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Piyush10564/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Piyush10564/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Piyush10564/leetcode-solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Piyush10564/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Piyush10564/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Piyush10564/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Piyush10564/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Piyush10564/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush10564/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Piyush10564/leetcode-solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Piyush10564/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Piyush10564/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Piyush10564/leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyush10564/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Piyush10564/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Piyush10564/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Piyush10564/leetcode-solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Piyush10564/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/Piyush10564/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush10564/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
