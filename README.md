@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Piyush10564/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Piyush10564/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0647-palindromic-substrings](https://github.com/Piyush10564/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Piyush10564/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Piyush10564/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Piyush10564/leetcode-solutions/tree/master/0761-special-binary-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush10564/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Piyush10564/leetcode-solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Piyush10564/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0647-palindromic-substrings](https://github.com/Piyush10564/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/Piyush10564/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Piyush10564/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Piyush10564/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Piyush10564/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Piyush10564/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Piyush10564/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0647-palindromic-substrings](https://github.com/Piyush10564/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Piyush10564/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/Piyush10564/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Piyush10564/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
